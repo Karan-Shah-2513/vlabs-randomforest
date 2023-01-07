@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vlabs-randomforest/static/css/main.e6c13ad2.css",
+    "main.js": "/vlabs-randomforest/static/js/main.fbf07bd8.js",
+    "static/js/787.9c46946d.chunk.js": "/vlabs-randomforest/static/js/787.9c46946d.chunk.js",
+    "index.html": "/vlabs-randomforest/index.html",
+    "main.e6c13ad2.css.map": "/vlabs-randomforest/static/css/main.e6c13ad2.css.map",
+    "main.fbf07bd8.js.map": "/vlabs-randomforest/static/js/main.fbf07bd8.js.map",
+    "787.9c46946d.chunk.js.map": "/vlabs-randomforest/static/js/787.9c46946d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fbf07bd8.js"
+  ]
+}
