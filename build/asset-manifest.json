@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/vlabs-randomforest/static/css/main.e6c13ad2.css",
-    "main.js": "/vlabs-randomforest/static/js/main.fbf07bd8.js",
+    "main.css": "/vlabs-randomforest/static/css/main.c1dcd7e6.css",
+    "main.js": "/vlabs-randomforest/static/js/main.cd5cd49a.js",
     "static/js/787.9c46946d.chunk.js": "/vlabs-randomforest/static/js/787.9c46946d.chunk.js",
+    "static/media/decision_tree_wine_25.svg": "/vlabs-randomforest/static/media/decision_tree_wine_25.ba1a48ebbc1e9fed8ba109435674ced7.svg",
+    "static/media/decision_tree_wine_50.svg": "/vlabs-randomforest/static/media/decision_tree_wine_50.4fdf317d044d2ebc8a74a99ed2193dc5.svg",
+    "static/media/decision_tree_wine_100.svg": "/vlabs-randomforest/static/media/decision_tree_wine_100.0e0ce343e9d38d2ba2168b4b338d49e1.svg",
+    "static/media/decision_tree_wine_5.svg": "/vlabs-randomforest/static/media/decision_tree_wine_5.bb0adb1eba597fa24f8b99e58fe87771.svg",
+    "static/media/decision_tree_wine_10.svg": "/vlabs-randomforest/static/media/decision_tree_wine_10.6dfeb2bcaff5ca67bb1448e33a342426.svg",
     "index.html": "/vlabs-randomforest/index.html",
-    "main.e6c13ad2.css.map": "/vlabs-randomforest/static/css/main.e6c13ad2.css.map",
-    "main.fbf07bd8.js.map": "/vlabs-randomforest/static/js/main.fbf07bd8.js.map",
+    "main.c1dcd7e6.css.map": "/vlabs-randomforest/static/css/main.c1dcd7e6.css.map",
+    "main.cd5cd49a.js.map": "/vlabs-randomforest/static/js/main.cd5cd49a.js.map",
     "787.9c46946d.chunk.js.map": "/vlabs-randomforest/static/js/787.9c46946d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.fbf07bd8.js"
+    "static/css/main.c1dcd7e6.css",
+    "static/js/main.cd5cd49a.js"
   ]
 }
