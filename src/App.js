@@ -1,9 +1,10 @@
 import "./App.css";
+import DiscreteSliderValues from "./SliderComponent";
 
 function App() {
   return (
-    <div className="App">
-      <>Hello World</>
+    <div className="slider-container">
+      <DiscreteSliderValues />
     </div>
   );
 }
